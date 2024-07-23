@@ -1,3 +1,5 @@
+// Reverse a singly linked list using iteration.
+
 /*To insert a node at nth position we assume that the position to be inserted is valid.If in 
 case we need to insert between 2 nodes we need the new node to point to the next node and 
 node should point to the new node */
